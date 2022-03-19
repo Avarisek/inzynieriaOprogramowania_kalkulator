@@ -2,5 +2,5 @@ Autor: Piotr Piszora
 
 
 
-To jest repozytorium testowe z IO
+To jest repozytorium z kalkulatorem z IO
 Będą tutaj pierwsze próby dotyczące commitów i branchy
