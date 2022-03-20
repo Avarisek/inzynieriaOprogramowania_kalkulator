@@ -4,7 +4,7 @@ def hello(name):
 
 
 def odejmij(a,b):
-	wynik=float(a)+float(b)
+	wynik=float(a)-float(b)
 	return wynik
 
 print ("Hello World")
