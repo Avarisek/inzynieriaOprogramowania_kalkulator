@@ -17,4 +17,6 @@ druga=input()
 
 print(dodaj(pierwsza,druga))
 
+#komentarz testowy do pusha
+
 
