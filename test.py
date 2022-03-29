@@ -3,10 +3,14 @@ def hello(name):
 
 
 
+
 def odejmij(a,b):
 	return a-b
 
 print("Witaj konflikcie")
+
+print("Tutaj bedziemy powodwoac konflikt")
+
 
 def dodaj(a,b):
 	wynik=float(a)+float(b)
