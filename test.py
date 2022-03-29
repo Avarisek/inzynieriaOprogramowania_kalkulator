@@ -6,7 +6,7 @@ def hello(name):
 def odejmij(a,b):
 	return a-b
 
-print ("Hello World")
+print("Witaj konflikcie")
 
 def dodaj(a,b):
 	wynik=float(a)+float(b)
