@@ -5,7 +5,8 @@ def hello(name):
 
 
 def odejmij(a,b):
-	return a-b
+	wynik=float(a)-float(b)
+	return wynik
 
 print("Witaj konflikcie")
 
