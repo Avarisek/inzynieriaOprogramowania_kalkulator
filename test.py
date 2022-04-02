@@ -24,4 +24,5 @@ print(dodaj(pierwsza,druga))
 
 #komentarz testowy do pusha
 
+#Cześć Piotrek
 
